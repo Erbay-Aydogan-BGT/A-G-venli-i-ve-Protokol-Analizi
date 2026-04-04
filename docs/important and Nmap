@@ -1,1 +1,4 @@
 "Sektörel Araçlar ile Analiz (Nmap & Wireshark)"
+
+Nmap, kendi yazdığımız basit socket scriptinin çok daha gelişmiş, endüstri standardı halidir. Sadece portun açık olup olmadığını değil, o portta çalışan yazılımın adını ve sürümünü de bulur.
+Kullanım Örneği (Terminal): sudo nmap -sV -p 21,22,80,443 192.168.1.1 
