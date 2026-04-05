@@ -34,10 +34,10 @@ Port No	 -   Servis Adı      -   	Açıklama ve Örnek
 
 
 # links 
-Cisco Networking Academy: What is an IP Address?
+Cisco Networking Academy: What is an IP Address? https://www.cisco.com/
 
-Cloudflare Learning: What is Subnetting?
+Cloudflare Learning: What is Subnetting? https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/
 
-IANA Service Name and Transport Protocol Port Number Registry: Port Numbers Official List
+IANA Service Name and Transport Protocol Port Number Registry: Port Numbers Official List https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
 
 
