@@ -1,12 +1,12 @@
 A- Araştırıp Faydalanılandığım Kaynaklar:
 
- 1- Scapy Documentation(Scapy Resmi Dökümantasyonu): Python ile ağ paketlerini manipüle etmek için. https://scapy.readthedocs.io/
+  1- Scapy Documentation(Scapy Resmi Dökümantasyonu): Python ile ağ paketlerini manipüle etmek için. https://scapy.readthedocs.io/
 
- 2- RFC (Request for Comments) Belgeleri: TCP/IP, ARP ve DNS gibi protokollerin resmi çalışma standartlarını (kurallarını) anlamak için.
+  2- RFC (Request for Comments) Belgeleri: TCP/IP, ARP ve DNS gibi protokollerin resmi çalışma standartlarını (kurallarını) anlamak için.
 
- 3- OWASP Ağ Güvenliği Rehberleri: Ağ seviyesindeki saldırı vektörlerini öğrenmek için.
+  3- OWASP Ağ Güvenliği Rehberleri: Ağ seviyesindeki saldırı vektörlerini öğrenmek için.
 
-4- Wireshark Wiki: Paket analizi teorisini kavramak için. https://gitlab.com/wireshark/wireshark/-/wikis/home
+  4- Wireshark Wiki: Paket analizi teorisini kavramak için. https://gitlab.com/wireshark/wireshark/-/wikis/home
 
 Nmap Network Scanning: https://nmap.org/book/
 
