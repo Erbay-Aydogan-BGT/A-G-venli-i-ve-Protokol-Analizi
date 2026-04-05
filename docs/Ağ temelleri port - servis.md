@@ -21,9 +21,9 @@ Port No	 -   Servis Adı      -   	Açıklama ve Örnek
 
 22  -------	     SSH	 ----------          Uzaktan güvenli komut satırı erişimi sağlar. Genelde Linux sunucuları yönetmek için kullanılır.
 
-80	  -------     HTTP	      --- ------     Şifresiz web trafiğidir. Tarayıcıya http://... yazdığında bu kapıdan girersin.
+80	  -------     HTTP	      --- ------    Şifresiz web trafiğidir. Tarayıcıya http://... yazdığında bu kapıdan girersin.
 
-443	 --- ----    HTTPS	      ---------     Şifreli ve güvenli web trafiğidir. Günümüzdeki çoğu web sitesi bu güvenli kapıyı kullanır.
+443	 --- ----    HTTPS	      ---------    Şifreli ve güvenli web trafiğidir. Günümüzdeki çoğu web sitesi bu güvenli kapıyı kullanır.
 
-21	       FTP	             Dosya aktarım protokolüdür. Eskiden çok yaygındı, şimdi yerini daha güvenli yöntemlere bıraktı.
+21	 -------      FTP	  ---------           Dosya aktarım protokolüdür. Eskiden çok yaygındı, şimdi yerini daha güvenli yöntemlere bıraktı.
 
