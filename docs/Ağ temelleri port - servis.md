@@ -17,7 +17,7 @@ Bir IP adresine ulaştığında, o cihazın içinde hangi servisle konuşacağı
 Bir evi IP adresi, evin içindeki kapıları da portlar gibi düşünebilirsin. 
 Sızma testinde amacımız "açık unutulmuş" veya "güvensiz" kapıları bulmaktır.
 
-Port No	  Servis Adı       	Açıklama ve Örnek
+Port No	 -   Servis Adı      -   	Açıklama ve Örnek
 
 22  	     SSH	             Uzaktan güvenli komut satırı erişimi sağlar. Genelde Linux sunucuları yönetmek için kullanılır.
 
