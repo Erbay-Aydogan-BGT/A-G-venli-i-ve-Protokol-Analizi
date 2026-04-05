@@ -1,4 +1,4 @@
-# Ağ Güvenliği ve Protokol Analizi
+# Ağ Güvenliği ve Protokol Analizi 🔐
 Ağ protokollerindeki zafiyetlerin keşfi ve analizi üzerine geliştirilmiş güvenlik araçları
 
 Bu projenin temel amacı, ağ üzerindeki veri paketlerinin (network packets) nasıl yapılandırıldığını, bu paketlerin nasıl yakalanıp (sniffing) analiz edilebileceğini ve ağ protokollerindeki (TCP, UDP, ICMP, ARP vb.) güvenlik zafiyetlerinin nasıl tespit edilebileceğini pratik kod örnekleriyle göstermektir
@@ -9,5 +9,7 @@ Bu projenin temel amacı, ağ üzerindeki veri paketlerinin (network packets) na
 Ağdaki açık kapıların (portların) nasıl keşfedildiği,
 
 Yerel ağdaki (LAN) cihazların ARP protokolü ile nasıl tespit edildiği,
+Şifresiz ağ trafiğinin nasıl dinlenip analiz edildiği teknik olarak incelenmiştir. 
 
-Şifresiz ağ trafiğinin nasıl dinlenip analiz edildiği teknik olarak incelenmiştir.                                                                                                           Bu proje, siber güvenlikte "Keşif" (Reconnaissance) ve "Trafik Analizi" aşamalarını otomatize etme mantığını kavramak için tasarlanmıştır.
+Bu proje, siber güvenlikte "Keşif" (Reconnaissance) ve "Trafik Analizi" aşamalarını otomatize etme mantığını kavramak için tasarlanmıştır.
+Projede nmap için de örnek temel çalışmalar bulunmaktadır
