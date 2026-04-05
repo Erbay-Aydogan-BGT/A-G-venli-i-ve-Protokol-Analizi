@@ -13,5 +13,6 @@
 
 # 2. Sistemin Kapıları: Portlar ve Servisler
 
-Bir IP adresine ulaştığında, o cihazın içinde hangi servisle konuşacağını portlar belirler. Bir evi IP adresi, evin içindeki kapıları da portlar gibi düşünebilirsin. 
+Bir IP adresine ulaştığında, o cihazın içinde hangi servisle konuşacağını portlar belirler. 
+Bir evi IP adresi, evin içindeki kapıları da portlar gibi düşünebilirsin. 
 Sızma testinde amacımız "açık unutulmuş" veya "güvensiz" kapıları bulmaktır.
