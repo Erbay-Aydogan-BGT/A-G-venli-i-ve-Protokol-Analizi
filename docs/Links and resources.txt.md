@@ -1,4 +1,4 @@
-A- Araştırıp Faydalanılandığım Kaynaklar:
+# A- Araştırıp Faydalanılandığım Kaynaklar:
 
   1- Scapy Documentation(Scapy Resmi Dökümantasyonu): Python ile ağ paketlerini manipüle etmek için. https://scapy.readthedocs.io/
 
@@ -10,7 +10,7 @@ A- Araştırıp Faydalanılandığım Kaynaklar:
 
 Nmap Network Scanning: https://nmap.org/book/
 
-B- Neden Kendi Kodlarımızı Yazıyoruz? (Neden Yazıldı?)
+# B- Neden Kendi Kodlarımızı Yazıyoruz? (Neden Yazıldı?)
 Endüstride Nmap veya Wireshark gibi harika araçlar olsa da, bir sızma testi uzmanının kendi araçlarını yazabilmesi kritik bir yetenektir. Çünkü:
 
 Özelleştirme: Hazır araçlar çok gürültülüdür (ağda çok iz bırakır). Kendi scriptlerimiz ile sadece hedeflediğimiz, spesifik ve sessiz taramalar yapabiliriz.
